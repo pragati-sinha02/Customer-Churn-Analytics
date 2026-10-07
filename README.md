@@ -211,8 +211,10 @@ python python/churn_model.py
 
 ## Screenshots
 
-*(Add screenshots of your Power BI dashboard pages here once built —
-e.g. `![Executive Overview](docs/screenshots/page1_overview.png)`)*
+<img width="1307" height="743" alt="Screenshot 2026-10-07 194851" src="https://github.com/user-attachments/assets/6c5b9c54-7a5e-4857-8d41-1f8f8394e48b" />
+<img width="1310" height="736" alt="Screenshot 2026-10-07 194821" src="https://github.com/user-attachments/assets/bbdceeac-b687-49c2-a14f-c85dbfa8040b" />
+<img width="1202" height="676" alt="Screenshot 2026-10-07 194758" src="https://github.com/user-attachments/assets/38c9760c-6825-4ee5-bb07-647c92441da7" />
+<img width="1202" height="682" alt="Screenshot 2026-10-07 194737" src="https://github.com/user-attachments/assets/dfd2cda9-bba5-4450-9ce5-f4164cbb7ab6" />
 
 ## Future Improvements
 
